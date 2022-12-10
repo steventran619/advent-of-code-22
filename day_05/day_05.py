@@ -12,7 +12,7 @@ stacks = [
 ]
 
 # Read File
-filepath = "C:\\Users\\stran\\Documents\\repos\\advent-of-code-22\\day_05\\input.txt"
+filepath = "/Users/steventran/Repos/advent-of-code-22/day_05/input.txt"
 
 # Open file and store into data 
 with open(filepath) as file:
